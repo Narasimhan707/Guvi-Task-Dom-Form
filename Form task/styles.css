@@ -1,0 +1,32 @@
+/* styles.css */
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* Style form elements */
+.form-group {
+  margin-bottom: 20px;
+}
+
+/* Style radio buttons */
+.form-check-label {
+  margin-left: 10px;
+}
+
+/* Style table */
+table {
+  width: 100%;
+}
+
+/* Style table headers */
+th {
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+/* Style table rows */
+td {
+  text-align: center;
+}
